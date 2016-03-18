@@ -1,0 +1,13 @@
+*) Fluentd is data Collector for unified logging layer
+
+*) Fluentd decouples data sources from backend systems by providing a unified logging layer in between.
+
+*) This layer allows developers and data analysts to utilize many types of logs as they are generated. Just as importantly, it mitigates the risk of "bad data" slowing down and misinforming your organization.
+
+*) A unified logging layer lets you and your organization make better use of data and iterate more quickly on your software.
+
+*) Fluentd is Apache 2.0 Licensed, fully open source software
+
+*) Below are the steps to build fluentd on linux-on-power
+
+Linux Distro : RHEL 7.1 PPC64LE
